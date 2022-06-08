@@ -105,7 +105,7 @@ public class MainClass {
                                     /**
                                      * The LM35 temperature sensor has a linear scale factor of +10mV/°C
                                      *
-                                     * @see <a href="https://www.ti.com/lit/gpn/lm35"> LM35 Datasheet</a>
+                                     * @see <a href="https://www.ti.com/lit/gpn/lm35">LM35 Datasheet</a>
                                      */
                                     temperature = V_i * 100;
 
